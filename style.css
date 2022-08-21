@@ -1,0 +1,45 @@
+.strip {
+  background-color: #000000;
+}
+
+#featured-services .box {
+  padding: 30px 20px;
+}
+
+.text-center {
+  text-align: center !important;
+}
+
+.flex-container {
+  height: 50vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: "center";
+}
+
+#pehla {
+  background-color: #ffffff;
+  height: 50px;
+  margin-right: 50px;
+  margin-top: 55px;
+  float: left;
+  width: 50%;
+  padding-left: 100px;
+}
+
+#dusra {
+  background-color: #ffffff;
+  height: 50px;
+  margin-top: 55px;
+  margin-right: 50px;
+  /* float: right; */
+  width: 33.3%;
+  padding-right: 100px;
+}
+
+.bd {
+  height: 180px;
+  background-color: #000000;
+  color: white;
+}
